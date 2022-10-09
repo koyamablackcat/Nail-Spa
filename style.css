@@ -1,11 +1,27 @@
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+#navbar {
+
+}
+
+#navbar li {
+    padding: 20px 30px;
+    display: inline-block;
+    background-color: #00271b;
+    /* border: 1px;
+    border-color: black; */
+    /* list-style: none; */
+}
+
+a {
+    text-decoration: none;
+    color: #A7FFE4;
+    /* display: block; */
+}
 
 .container {
-    background-color: blue;
-    height: 500px;
-    width: 49%;
-    display: inline-block;
+
 }
